@@ -6,17 +6,17 @@ This repository contains the data used in my MSc thesis titled "Temperature depe
 
 # Content
 This repository  consists of the following:<br />
-[EuropeanGradientData.xlsx]: Dataset from Cruz-Paredes et al. (2023) including microbial growth rates, microbial respiration rates and the Mean Annual Soil Temperature (MAST) for 70 sites around Europe. 
-[Script_IvoHarmens_MSc_EarthSciences]: Matlab script with the code which generated the results and figures
+[EuropeanGradientData.xlsx]: Dataset from Cruz-Paredes et al. (2023) including microbial growth rates, microbial respiration rates and the Mean Annual Soil Temperature (MAST) for 70 sites around Europe.<br />
+[Script_IvoHarmens_MSc_EarthSciences]: Matlab script with the code which generated the results and figures.<br />
 
 
 # Usage
-If you find my data useful, feel free to use it. When using this data, please consider citing my thesis:
+If you find my data useful, feel free to use it. When using this data, please consider citing my thesis:<br />
 Harmens, I. (2025). Temperature dependence of soil microbial processes: model evaluation and theoretical basis [Unpublished master thesis]. Universiteit van Amsterdam.
 
 # Contact information
-If there are any questions, the author can be contacted:
-Ivo Harmens
+If there are any questions, the author can be contacted:<br />
+Ivo Harmens<br />
 ivo.harmens@student.uva.nl
 
 # Acknowledgements
