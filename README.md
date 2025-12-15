@@ -18,4 +18,4 @@ Ivo Harmens
 ivo.harmens@student.uva.nl
 
 # Acknowledgements
-I would like to thank Albert Carles Brangarí for his supervision and assistance during the project. I would also like to thank all the PLANT-SOIL Ecology group members for their feedback and input during my project and also thanks to Boris Janssen for assessing my work.
+I would like to thank Albert Carles Brangarí for his supervision and assistance during the project, all the PLANT-SOIL Ecology group members for their feedback and input during my project and Boris Janssen for assessing my work.
